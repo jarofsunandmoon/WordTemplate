@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document-structure>
+  <section id="overview" heading="概述" level="1" />
+  <section id="assessment_overview" heading="评估概述" level="2" />
+  <section id="platform_overview_history" heading="平台概况及改造历史" level="2" />
+  <section id="risk_level" heading="平台的风险等级" level="2" />
+  <section id="assessment_basis" heading="评估依据" level="1" />
+  <section id="code_basis" heading="规范依据" level="2" />
+  <section id="assessment_process" heading="评估流程" level="2" />
+  <section id="basic_data" heading="基础数据" level="2" />
+  <section id="deck_loads" heading="甲板荷载" level="2" />
+  <section id="environment_conditions" heading="环境条件" level="2" />
+  <section id="water_depth" heading="水深" level="3" />
+  <section id="wave" heading="波浪" level="3" />
+  <section id="current" heading="海流" level="3" />
+  <section id="wind" heading="风" level="3" />
+  <section id="marine_growth" heading="海生物" level="3" />
+  <section id="splash_zone" heading="飞溅区和腐蚀余量" level="3" />
+  <section id="scour" heading="基础冲刷" level="3" />
+  <section id="analysis_model" heading="分析模型" level="1" />
+  <section id="program_coordinate" heading="程序和坐标系统" level="2" />
+  <section id="structure_modeling" heading="结构模拟" level="2" />
+  <section id="pile_modeling" heading="桩基础模拟" level="2" />
+  <section id="design_level_analysis" heading="设计水平分析" level="1" />
+  <section id="environment_load_parameters" heading="环境载荷参数" level="2" />
+  <section id="dynamic_response" heading="结构动力响应" level="2" />
+  <section id="basic_load_cases" heading="基本荷载工况" level="2" />
+  <section id="load_combinations" heading="荷载组合" level="2" />
+  <section id="analysis_results" heading="分析结果" level="2" />
+  <section id="nominal_stress_check" heading="名义应力校核" level="3" />
+  <section id="effective_length_factor" heading="构件的受压有效长度系数参考API RP 2A。" level="4" />
+  <section id="joint_shear_check" heading="冲剪应力校核" level="3" />
+  <section id="pile_check_results" heading="桩基校核结果" level="3" />
+  <section id="ultimate_strength_analysis" heading="极限强度分析" level="1" />
+  <section id="ultimate_strength_overview" heading="概述" level="2" />
+  <section id="ultimate_strength_theory" heading="极限强度分析的理论" level="2" />
+  <section id="deck_wave_analysis" heading="甲板上浪分析" level="2" />
+  <section id="ultimate_environment_loads" heading="环境荷载" level="2" />
+  <section id="ultimate_results" heading="分析结果" level="2" />
+  <section id="fatigue_analysis" heading="疲劳分析" level="1" />
+  <section id="fatigue_overview" heading="概述" level="2" />
+  <section id="fatigue_program" heading="分析程序" level="2" />
+  <section id="fatigue_model" heading="结构模型" level="2" />
+  <section id="natural_period_modes" heading="结构自振周期和振型" level="2" />
+  <section id="transfer_function" heading="传递函数" level="2" />
+  <section id="fatigue_results" heading="分析结果" level="2" />
+  <section id="construction_plan" heading="改造施工方案" level="1" />
+  <section id="work_scope" heading="工作量" level="2" />
+  <section id="underwater_installation" heading="水下部分安装" level="2" />
+  <section id="above_water_installation" heading="水上部分安装" level="2" />
+  <section id="conclusion_recommendation" heading="结论与建议" level="1" />
+  <section id="conclusions" heading="结论" level="2" />
+  <section id="recommendations" heading="建议" level="2" />
+  <section id="appendix_a" heading="附录A：长期波浪分布" level="appendix" />
+  <section id="appendix_b" heading="附录B：新增井槽改造方案" level="appendix" />
+  <section id="appendix_c" heading="附录C：桩基数据" level="appendix" />
+</document-structure>
